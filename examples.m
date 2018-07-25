@@ -1,3 +1,5 @@
+% This MATLAB program checks the feasibility of LMIs from Theorems 1 and 2 of the paper 
+% A. Selivanov and E. Fridman, "Robust sampled-data implementation of PID controller," in 57th Conference on Decision and Control, 2018. 
 %% Example 1 
 a1=8.4; a2=0; b=35.71;              % parameters of (1)
 kpbar=-10; kibar=-40; kdbar=-.65;   % parameters of (2) 
